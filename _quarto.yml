@@ -12,10 +12,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Ashley Bird 2025"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: Ashley_LinkedIn_URL
 
   navbar:
     background: primary
