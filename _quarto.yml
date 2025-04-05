@@ -25,6 +25,8 @@ website:
         file: index.qmd
       - text: "DS250 Projects"
         file: 250_projects.qmd
+      - text: "My Resume"
+        file: resume.qmd
 
   sidebar:
     - title: "DS 250 Projects"
