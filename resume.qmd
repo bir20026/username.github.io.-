@@ -1,0 +1,61 @@
+---
+layout: cv
+title: Ashley Bird's cv
+---
+# Ashley Bird
+Accountant, Law Student
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
+
+
+## Currently
+
+Student at BYUI for a bachelors degree in Accounting and a Data Science certificate
+
+### Specialized in
+
+Accounting and Legal Contracts.
+
+
+### Research interests
+
+Legal contracts, tax legislation.
+
+
+## Education
+
+`2020-2026`
+__BYU-Idaho, Rexburg.__
+
+
+- Fellow
+
+
+
+## Awards
+
+BYUI 2025 Mock Trial Overall Best Attorney Award.
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+None YET
+
+### Patents
+None YET
+
+## Occupation
+
+'2025'
+TA Accounting 201 (Managerial)
+
+
+<!-- ### Footer
+
+Last updated: April 5 -->
