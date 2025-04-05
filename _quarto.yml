@@ -2,20 +2,20 @@ project:
   type: website
 
 website:
-  title: "Chaz Clark - Data Science Portfolio"
+  title: "Ashley Bird - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  site-url: https://byuidatascience.github.io/course_work_portfolio/
-  repo-url: https://github.com/byuidatascience/course_work_portfolio
-  issue-url: https://github.com/byuidatascience/course_work_portfolio/issues/new
+  site-url: https://bir20026.github.io/username.github.io.-/
+  repo-url: https://github.com/bir20026/username.github.io.-
+  issue-url: https://github.com/bir20026/username.github.io.-/issues
   repo-actions: [issue]
 
   page-footer: 
     border: true
-    left: "Ashley Bird 2025 test test test test  "
+    left: "Ashley Bird 2025 test test test"
     right: 
       - icon: linkedin
-        href: Ashley_LinkedIn_URL
+        href: https://www.linkedin.com/in/ashleybird2026/
 
   navbar:
     background: primary
