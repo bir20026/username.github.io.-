@@ -3,10 +3,10 @@ layout: cv
 title: Ashley Bird's cv
 ---
 # Ashley Bird
-Accountant, Law Student
+Accountant Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="reesebird42@gmail.com">reesebird42@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -27,7 +27,7 @@ Legal contracts, tax legislation.
 
 ## Education
 
-`2020-2026`
+`2020-2025`
 __BYU-Idaho, Rexburg.__
 
 
@@ -39,21 +39,13 @@ __BYU-Idaho, Rexburg.__
 
 BYUI 2025 Mock Trial Overall Best Attorney Award.
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-None YET
-
-### Patents
-None YET
-
 ## Occupation
 
 '2025'
 TA Accounting 201 (Managerial)
+
+'2024'
+Accounting Intern (Crandall & Oseen CPA)
 
 
 <!-- ### Footer
