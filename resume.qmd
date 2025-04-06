@@ -7,17 +7,39 @@ Accountant Major
 
 <div id="webaddress">
 <a href="reesebird42@gmail.com">reesebird42@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
 ## Currently
 
 Student at BYUI for a bachelors degree in Accounting and a Data Science certificate
 
-### Specialized in
+### Work Experience
+Finance Intern
+Berberian Nut Company
 
-Accounting and Legal Contracts.
+January 2024 - April 2024
+Idaho Falls, ID
+
+Accounting Tax Intern
+Crandall & Oseen CPA
+Identified 5 opportunities for process improvement and presented solutions to
+enhance operational efficiencies.
+Created and managed comprehensive budgets for various agricultural projects,
+ensuring alignment with organizational financial goals.
+Collaborated with multiple departments to improve company's credit risk
+management process, and reduce data collection times by 47%.
+
+Actively supported senior accountants by conducting in-depth tax research and
+analysis on intricate tax issues, playing a crucial role in developing effective tax
+planning strategies and solutions for clients.
+Leveraged advanced tax software and databases to organize client information,
+demonstrating proficiency in technology and an ability to manage complex tax
+preparation processes efficiently
+
+Employed a proactive approach to problem-solving within a high-pressure, fast-
+paced accounting environment, showcasing the ability to anticipate issues and
+
+initiate corrective actions.
 
 
 ### Research interests
@@ -29,9 +51,9 @@ Legal contracts, tax legislation.
 
 `2020-2025`
 __BYU-Idaho, Rexburg.__
-
-
-- Fellow
+Data Science Certificate
+Pre-Law Cluster
+Brigham Young University Idaho
 
 
 
@@ -39,15 +61,8 @@ __BYU-Idaho, Rexburg.__
 
 BYUI 2025 Mock Trial Overall Best Attorney Award.
 
-## Occupation
-
-'2025'
-TA Accounting 201 (Managerial)
-
-'2024'
-Accounting Intern (Crandall & Oseen CPA)
 
 
 <!-- ### Footer
 
-Last updated: April 5 -->
+Last updated: April 5, 2025-->
